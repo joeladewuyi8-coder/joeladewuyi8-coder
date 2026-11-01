@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Joel 👋
 
-<!--
-**joeladewuyi8-coder/joeladewuyi8-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Botany graduate (Obafemi Awolowo University) moving into computational cancer research.
 
-Here are some ideas to get you started:
+**Interests:** plant bioactives, anticancer peptides, genome mining, bioinformatics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:**
+- Research intern at Genomac, working on in silico anticancer peptide analysis
+- Learning Python and strengthening my R skills
+
+**Featured project:** An in silico workflow for shortlisting candidate anticancer peptides from a bacterial genome. Computational predictions only; manuscript under review. (Repository coming soon.)
+
+**Looking for:** a funded MSc in cancer research or computational biology (2027 intake)
+
+**Contact:** joeladewuyi8@gmail.com
